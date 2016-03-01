@@ -12,7 +12,7 @@ Documentation
 -------------
 
 * Load plugin in bootstrap.php;
-* On your Controller load de component:
+* On your Controller load the component:
 <code>
 	public $components = array(
         "Googl.Googl"
